@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listView" type="id" />
+    <item name="imageView" type="id" />
+    <item name="titleView" type="id" />
+    <item name="infoView" type="id" />
+    <item name="img" type="id" />
+    <item name="btn" type="id" />
+    <item name="l1" type="id" />
+</resources>
